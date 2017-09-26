@@ -1,6 +1,6 @@
 Download From Github
 --------------------
-url 
+url  https://github.com/sachinbharvad09/Weather.git
 
 Installation
 ------------
